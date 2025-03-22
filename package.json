@@ -1,0 +1,20 @@
+{
+  "name": "json-schema-validator",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "ovidiu.podina",
+  "license": "MIT",
+  "description": "JSON Schema Validator",
+  "type": "module",
+  "files": [
+    "dist/**/*.js",
+    "dist/**/*.d.ts",
+    "dist/**/*.d.ts.map"
+  ],
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
